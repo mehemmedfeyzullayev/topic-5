@@ -1,0 +1,167 @@
+/* .container {
+  width: 204.0500030517578;
+  height: 28;
+  left: -22.52px;
+
+  opacity: 1;
+  background-color: white;
+} */
+.h1 {
+  font-family: "Rubik" sans-serif;
+  color: #161c2d;
+  font-size: 24px;
+  text-align: center;
+  margin-right: 90px;
+  background-color: white;
+}
+
+.hero {
+  width: 391;
+  height: 65;
+  top: 204px;
+  left: 628px;
+
+  opacity: 1;
+  background-color: #f4f7fa;
+}
+.h2 {
+  font-weight: 700px;
+  font-size: 60px;
+  font-family: "Roboto" sans-serif;
+  text-align: center;
+  margin-right: 50px;
+}
+p {
+  font-weight: 400px;
+  font-size: 19px;
+  color: #161c2d;
+  font-family: "Roboto" sans-serif;
+  text-align: center;
+  margin-right: 50px;
+}
+.form1 {
+  width: 350px;
+  height: 581px;
+  border: 1px solid #e7e9ed;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  margin-left: 470px;
+
+  padding-top: 26px;
+  background-color: #ffffff;
+}
+.label {
+  color: #161c2d;
+  font-family: "Roboto" sans-serif;
+  margin-top: 10px;
+}
+body {
+  background-color: #f4f7fa;
+}
+input {
+  width: 300px;
+  height: 40px;
+  border-radius: 8px;
+  border: solid #e7e9ed;
+  margin-bottom: 43px;
+  margin-top: 10px;
+}
+
+label {
+  color: #161c2d;
+  font-size: 15px;
+  font-family: "Roboto" sans-serif;
+}
+.btn {
+  width: 300px;
+  height: 59px;
+  /* padding: 30px 50px; */
+
+  opacity: 1;
+  border-radius: 8px;
+  background-color: #473bf0;
+  color: #ffffff;
+  font-size: 17px;
+}
+.footer {
+  background-color: #0b0d17;
+  color: white;
+  padding: 60px 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.footer-logo {
+  flex: 1 1 300px;
+}
+
+.footer-logo h2 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.footer-logo p {
+  font-size: 14px;
+  color: #bbbbbb;
+  line-height: 1.6;
+  max-width: 200px;
+}
+
+.social-icons {
+  margin-top: 15px;
+}
+
+.social-icons a {
+  margin-right: 15px;
+  display: inline-block;
+  transition: transform 0.3s;
+}
+
+.footer-links {
+  display: flex;
+  flex: 3 1 600px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.footer-links h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+  opacity: 85%;
+}
+
+.footer-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  color: #bbbbbb;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.3s;
+}
+
+.footer-links a:hover {
+  color: white;
+}
+.m {
+  background-color: white;
+}
+header {
+  background-color: white;
+}
